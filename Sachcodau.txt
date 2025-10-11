@@ -1,0 +1,49 @@
+Mã sách: S001
+Tên sách: Lập trình C++ cơ bản
+Tác giả: Nguyễn Văn A
+Nhà xuất bản: NXB Trẻ
+Giá bán: 75000
+Năm phát hành: 2020
+Số trang: 350
+Ngày nhập kho: 10/10/2024
+Tình trạng: 0
+
+Mã sách: S002
+Tên sách: Giải tích 1
+Tác giả: Trần Thị B
+Nhà xuất bản: NXB Giáo Dục
+Giá bán: 68000
+Năm phát hành: 2019
+Số trang: 420
+Ngày nhập kho: 11/10/2024
+Tình trạng: 0
+
+Mã sách: S003
+Tên sách: Cấu trúc dữ liệu và giải thuật
+Tác giả: Phạm Minh C
+Nhà xuất bản: NXB Khoa Học
+Giá bán: 85000
+Năm phát hành: 2022
+Số trang: 500
+Ngày nhập kho: 12/10/2024
+Tình trạng: 0
+
+Mã sách: S004
+Tên sách: Lý thuyết đồ thị ứng dụng
+Tác giả: Lê Văn D
+Nhà xuất bản: NXB Đại Học Quốc Gia
+Giá bán: 92000
+Năm phát hành: 2021
+Số trang: 410
+Ngày nhập kho: 13/10/2024
+Tình trạng: 0
+
+Mã sách: S005
+Tên sách: Thuật toán nâng cao
+Tác giả: Vũ Thị E
+Nhà xuất bản: NXB Công Nghệ Thông Tin
+Giá bán: 99000
+Năm phát hành: 2023
+Số trang: 600
+Ngày nhập kho: 14/10/2024
+Tình trạng: 0
