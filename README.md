@@ -49,3 +49,13 @@ Nam phat hanh: 2020
 So trang: 350
 Ngay nhap kho: 10/10/2024
 Tinh trang: 0
+```
+> Ma sach: S001  
+> Ten sach: Lap trinh C++ co ban  
+> Tac gia: Nguyen Van A  
+> Nha xuat ban: NXB Tre  
+> Gia ban: 75000  
+> Nam phat hanh: 2020  
+> So trang: 350  
+> Ngay nhap kho: 10/10/2024  
+> Tinh trang: 0  
