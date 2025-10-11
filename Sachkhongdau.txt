@@ -1,0 +1,49 @@
+Ma sach: S001
+Ten sach: Lap trinh C++ co ban
+Tac gia: Nguyen Van A
+Nha xuat ban: NXB Tre
+Gia ban: 75000
+Nam phat hanh: 2020
+So trang: 350
+Ngay nhap kho: 10/10/2024
+Tinh trang: 0
+
+Ma sach: S002
+Ten sach: Giai tich 1
+Tac gia: Tran Thi B
+Nha xuat ban: NXB Giao Duc
+Gia ban: 68000
+Nam phat hanh: 2019
+So trang: 420
+Ngay nhap kho: 11/10/2024
+Tinh trang: 0
+
+Ma sach: S003
+Ten sach: Cau truc du lieu va giai thuat
+Tac gia: Pham Minh C
+Nha xuat ban: NXB Khoa Hoc
+Gia ban: 85000
+Nam phat hanh: 2022
+So trang: 500
+Ngay nhap kho: 12/10/2024
+Tinh trang: 0
+
+Ma sach: S004
+Ten sach: Ly thuyet do thi ung dung
+Tac gia: Le Van D
+Nha xuat ban: NXB Dai Hoc Quoc Gia
+Gia ban: 92000
+Nam phat hanh: 2021
+So trang: 410
+Ngay nhap kho: 13/10/2024
+Tinh trang: 0
+
+Ma sach: S005
+Ten sach: Thuat toan nang cao
+Tac gia: Vu Thi E
+Nha xuat ban: NXB Cong Nghe Thong Tin
+Gia ban: 99000
+Nam phat hanh: 2023
+So trang: 600
+Ngay nhap kho: 14/10/2024
+Tinh trang: 0
