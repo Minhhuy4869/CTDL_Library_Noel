@@ -50,12 +50,44 @@ So trang: 350
 Ngay nhap kho: 10/10/2024
 Tinh trang: 0
 ```
-> Ma sach: S001  
-> Ten sach: Lap trinh C++ co ban  
-> Tac gia: Nguyen Van A  
-> Nha xuat ban: NXB Tre  
-> Gia ban: 75000  
-> Nam phat hanh: 2020  
-> So trang: 350  
-> Ngay nhap kho: 10/10/2024  
-> Tinh trang: 0  
+### 2. **Lớp `BanDoc`**
+Mỗi bạn đọc có các thông tin:
+- Mã bạn đọc (duy nhất)  
+- Họ tên  
+- Ngày đăng ký  
+
+**File dữ liệu:** `BanDoc.txt`
+
+Ví dụ:
+```plaintext
+Ma ban doc: BD001
+Ho ten: Nguyen Van Minh
+Ngay dang ky: 10/10/2024
+```
+
+---
+
+## ⚙️ Chức năng chính
+
+| Chức năng | Mô tả |
+|------------|-------|
+| 1️⃣ | Thêm, sửa, xóa thông tin sách |
+| 2️⃣ | Thêm, sửa, xóa thông tin bạn đọc |
+| 3️⃣ | Tìm kiếm sách hoặc bạn đọc theo mã/tên |
+| 4️⃣ | Ghi và đọc dữ liệu từ file |
+| 5️⃣ | Mượn sách – cập nhật tình trạng sách |
+| 6️⃣ | Trả sách – khôi phục tình trạng ban đầu |
+| 7️⃣ | Hiển thị danh sách hiện có |
+
+---
+
+## 🏗️ Cấu trúc thư mục
+
+>📁 LibraryManagement
+>├── 📄 main.cpp
+>├── 📄 Sach.h / Sach.cpp
+>├── 📄 BanDoc.h / BanDoc.cpp
+>├── 📄 MuonTra.h / MuonTra.cpp
+>├── 📄 Sach.txt
+>├── 📄 BanDoc.txt
+>└── 📄 README.md
