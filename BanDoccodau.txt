@@ -1,0 +1,19 @@
+Mã bạn đọc: BD001
+Họ tên: Nguyễn Văn An
+Ngày đăng ký: 01/10/2024
+
+Mã bạn đọc: BD002
+Họ tên: Trần Thị Bình
+Ngày đăng ký: 02/10/2024
+
+Mã bạn đọc: BD003
+Họ tên: Lê Hoàng Cường
+Ngày đăng ký: 03/10/2024
+
+Mã bạn đọc: BD004
+Họ tên: Phạm Minh Dũng
+Ngày đăng ký: 04/10/2024
+
+Mã bạn đọc: BD005
+Họ tên: Vũ Thị Lan
+Ngày đăng ký: 05/10/2024
