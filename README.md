@@ -103,3 +103,37 @@ Ngay dang ky: 10/10/2024
 │   └── 📄 BanDoc.txt
 │
 └── 📄 README.md
+```
+
+---
+
+## 💾 Ghi chú về file dữ liệu
+- Mỗi đối tượng được ngăn cách bằng dòng `"---"`.
+- Dữ liệu có thể lưu ở **phiên bản có dấu** hoặc **không dấu** tùy theo yêu cầu.
+- Khi chương trình khởi động, dữ liệu sẽ được đọc từ file vào cấu trúc dữ liệu tương ứng.
+
+---
+
+## 🚀 Hướng phát triển
+- Xây dựng giao diện người dùng bằng console hoặc Qt.  
+- Mở rộng quản lý thêm: nhân viên thư viện, thống kê sách mượn nhiều nhất.  
+- Chuyển đổi sang lưu trữ dữ liệu dạng `.csv` hoặc `.json` để thuận tiện hơn.
+
+---
+
+## 🧠 Ghi chú tiến độ nhóm
+| Ngày | Thành viên | Công việc | Trạng thái |
+|------|-------------|-----------|-------------|
+| 10/10/2025 | [Tên bạn 1] | Thiết kế lớp `Sach`, tạo file `Sach.txt` | ✅ Hoàn thành |
+| 11/10/2025 | [Tên bạn 2] | Thiết kế lớp `BanDoc`, tạo file `BanDoc.txt` | 🔄 Đang làm |
+| 12/10/2025 | Cả nhóm | Xây dựng chức năng mượn/trả sách | ⏳ Kế hoạch |
+
+---
+
+## 🧾 Giấy phép
+Dự án được thực hiện trong khuôn khổ môn **Cấu trúc dữ liệu và Giải thuật** – Trường Đại học Sư phạm TP.HCM.  
+Mọi quyền thuộc về nhóm tác giả.
+
+---
+
+📌 *Mọi góp ý, chỉnh sửa xin gửi về nhóm để hoàn thiện project tốt hơn.*
