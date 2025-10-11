@@ -1,6 +1,6 @@
 # CTDL_Library_Noel
 
-# 📚 DỰ ÁN QUẢN LÝ THƯ VIỆN
+# 📚 PROJECT QUẢN LÝ THƯ VIỆN
 
 ## 👥 Thành viên nhóm
 | STT | Họ và tên | Nhiệm vụ chính |
