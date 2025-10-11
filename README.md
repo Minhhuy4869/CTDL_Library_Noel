@@ -83,11 +83,11 @@ Ngay dang ky: 10/10/2024
 
 ## 🏗️ Cấu trúc thư mục
 
->📁 LibraryManagement
->├── 📄 main.cpp
->├── 📄 Sach.h / Sach.cpp
->├── 📄 BanDoc.h / BanDoc.cpp
->├── 📄 MuonTra.h / MuonTra.cpp
->├── 📄 Sach.txt
->├── 📄 BanDoc.txt
->└── 📄 README.md
+📁 LibraryManagement
+├── 📄 main.cpp
+├── 📄 Sach.h / Sach.cpp
+├── 📄 BanDoc.h / BanDoc.cpp
+├── 📄 MuonTra.h / MuonTra.cpp
+├── 📄 Sach.txt
+├── 📄 BanDoc.txt
+└── 📄 README.md
