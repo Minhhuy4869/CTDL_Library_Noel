@@ -81,13 +81,26 @@ Ngay dang ky: 10/10/2024
 
 ---
 
-## 🏗️ Cấu trúc thư mục
+```markdown
+### 🧩 Cấu trúc thư mục dự án
 
-📁 LibraryManagement
-├── 📄 main.cpp
-├── 📄 Sach.h / Sach.cpp
-├── 📄 BanDoc.h / BanDoc.cpp
-├── 📄 MuonTra.h / MuonTra.cpp
-├── 📄 Sach.txt
-├── 📄 BanDoc.txt
+```plaintext
+📁 LibraryManagement/
+│
+├── 📄 main.cpp              → Chương trình chính
+│
+├── 📂 include/
+│   ├── 📄 Sach.h
+│   ├── 📄 BanDoc.h
+│   └── 📄 MuonTra.h
+│
+├── 📂 src/
+│   ├── 📄 Sach.cpp
+│   ├── 📄 BanDoc.cpp
+│   └── 📄 MuonTra.cpp
+│
+├── 📂 data/
+│   ├── 📄 Sach.txt
+│   └── 📄 BanDoc.txt
+│
 └── 📄 README.md
