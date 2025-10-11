@@ -84,7 +84,6 @@ Ngay dang ky: 10/10/2024
 ```markdown
 ### 🧩 Cấu trúc thư mục dự án
 
-```plaintext
 📁 LibraryManagement/
 │
 ├── 📄 main.cpp              → Chương trình chính
