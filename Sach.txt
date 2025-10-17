@@ -1,0 +1,49 @@
+S001
+Lap trinh C++ co ban
+Nguyen Van A
+NXB Tre
+75000
+2020
+350
+10/10/2024
+0
+
+S002
+Giai tich 1
+Tran Thi B
+NXB Giao Duc
+68000
+2019
+420
+11/10/2024
+0
+
+S003
+Cau truc du lieu va giai thuat
+Pham Minh C
+NXB Khoa Hoc
+85000
+2022
+500
+12/10/2024
+0
+
+S004
+Ly thuyet do thi ung dung
+Le Van D
+NXB Dai Hoc Quoc Gia
+92000
+2021
+410
+13/10/2024
+0
+
+S005
+Thuat toan nang cao
+Vu Thi E
+NXB Cong Nghe Thong Tin
+99000
+2023
+600
+14/10/2024
+0
