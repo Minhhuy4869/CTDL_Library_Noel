@@ -5,8 +5,8 @@
 ## 👥 Thành viên nhóm
 | STT | Họ và tên | Nhiệm vụ chính |
 |-----|------------|----------------|
-| 1 | [Tên bạn 1] | Thiết kế cấu trúc dữ liệu, xử lý file, xây dựng lớp `Sach` |
-| 2 | [Tên bạn 2] | Xây dựng lớp `BanDoc`, chức năng mượn/trả sách, giao diện menu |
+| 1 | Trịnh Minh Huy (leader) | Xây dựng lớp `Sach`, lớp `BanDoc`, viết báo cáo tổng kết |
+| 2 | Nguyễn Khắc Trung | Thiết kế giao diện đăng nhập, xây dựng lớp `PhieuMuon`, video demo |
 
 ---
 
