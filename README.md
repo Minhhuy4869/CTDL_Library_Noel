@@ -40,15 +40,15 @@ Mỗi quyển sách có các thông tin:
 
 Ví dụ: 
 ```plaintext
-Ma sach: S001
-Ten sach: Lap trinh C++ co ban
-Tac gia: Nguyen Van A
-Nha xuat ban: NXB Tre
-Gia ban: 75000
-Nam phat hanh: 2020
-So trang: 350
-Ngay nhap kho: 10/10/2024
-Tinh trang: 0
+S001
+Rung Na Uy
+Haruki Murakami
+NXB Tre
+75000
+2020
+350
+10/10/2024
+0
 ```
 ### 2. **Lớp `BanDoc`**
 Mỗi bạn đọc có các thông tin:
@@ -60,9 +60,9 @@ Mỗi bạn đọc có các thông tin:
 
 Ví dụ:
 ```plaintext
-Ma ban doc: BD001
-Ho ten: Nguyen Van Minh
-Ngay dang ky: 10/10/2024
+BD001
+Nguyen Van Minh
+10/10/2024
 ```
 
 ---
@@ -121,19 +121,3 @@ Ngay dang ky: 10/10/2024
 
 ---
 
-## 🧠 Ghi chú tiến độ nhóm
-| Ngày | Thành viên | Công việc | Trạng thái |
-|------|-------------|-----------|-------------|
-| 10/10/2025 | [Tên bạn 1] | Thiết kế lớp `Sach`, tạo file `Sach.txt` | ✅ Hoàn thành |
-| 11/10/2025 | [Tên bạn 2] | Thiết kế lớp `BanDoc`, tạo file `BanDoc.txt` | 🔄 Đang làm |
-| 12/10/2025 | Cả nhóm | Xây dựng chức năng mượn/trả sách | ⏳ Kế hoạch |
-
----
-
-## 🧾 Giấy phép
-Dự án được thực hiện trong khuôn khổ môn **Cấu trúc dữ liệu và Giải thuật** – Trường Đại học Sư phạm TP.HCM.  
-Mọi quyền thuộc về nhóm tác giả.
-
----
-
-📌 *Mọi góp ý, chỉnh sửa xin gửi về nhóm để hoàn thiện project tốt hơn.*
