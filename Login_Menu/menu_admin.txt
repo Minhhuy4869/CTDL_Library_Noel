@@ -1,8 +1,0 @@
-===========================
-        MENU ADMIN
-===========================
-1. Xem danh sach nguoi dung
-2. Them nguoi dung moi
-3. Xoa nguoi dung
-4. Dang xuat
-===========================
