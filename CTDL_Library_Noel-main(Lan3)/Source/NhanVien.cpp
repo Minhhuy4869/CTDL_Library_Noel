@@ -1,28 +1,35 @@
 #include "NhanVien.h"
 
 // getters
-string NhanVien::getUser() {
-    return strUser;
+string NhanVien::getUser() 
+{
+    return _strUser;
 }
-string NhanVien::getPassWord() {
-    return strPassWord;
+string NhanVien::getPassWord() 
+{
+    return _strPassWord;
 }
 
 // setters
-void NhanVien::setUser(string User) {
-    strUser = User;
+void NhanVien::setUser(string User) 
+{
+    _strUser = User;
 }
-void NhanVien::setPassWord(string PassWord) {
-    strPassWord = PassWord;
+void NhanVien::setPassWord(string PassWord) 
+{
+    _strPassWord = PassWord;
 }
 
 // constructor
-NhanVien::NhanVien() {  // mặc định
-    strUser = "";
-    strPassWord = "";
+NhanVien::NhanVien() 
+{  // mặc định
+    _strUser = "";
+    _strPassWord = "";
 }
 
-NhanVien::NhanVien(string User, string PassWord) { // có tham số
-    strUser = User;
-    strPassWord = PassWord;
+NhanVien::NhanVien(string User, string PassWord) 
+{ // có tham số
+    _strUser = User;
+    _strPassWord = PassWord;
 }
+
