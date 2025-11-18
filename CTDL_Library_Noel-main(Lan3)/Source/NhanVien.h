@@ -4,8 +4,8 @@
 class NhanVien
 {
 private:
-	string strUser;
-	string strPassWord;
+	string _strUser;
+	string _strPassWord;
 public:
 	// getters
 	string getUser();
@@ -18,4 +18,5 @@ public:
 	NhanVien();
 	// Khoi tao NhanVien co tham so
 	NhanVien(string User, string PassWord);
+
 };
