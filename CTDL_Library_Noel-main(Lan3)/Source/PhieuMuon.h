@@ -2,14 +2,15 @@
 #include <string>
 using namespace std;
 
-class PhieuMuon {
+class PhieuMuon 
+{
 private:
-    string strMaPhieu;
-    string strMaBanDoc;
-    string strMaSach;
-    string strNgayMuon;
-    string strNgayTra;
-    int iTinhTrang; // 1: đang mượn, 0: đã trả
+    string _strMaPhieu;
+    string _strMaBanDoc;
+    string _strMaSach;
+    string _strNgayMuon;
+    string _strNgayTra;
+    int _iTinhTrang; // 1: đang mượn, 0: đã trả
 
 public:
     // Constructor
