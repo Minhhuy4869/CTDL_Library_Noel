@@ -4,15 +4,15 @@
 class Sach
 {
 private:
-	string strMaSach;
-	string strTenSach;
-	string strTacGia;
-	string strNhaXuatBan;
-	int iGiaBan;
-	int iNamPhatHanh;
-	int iSoTrang;
-	string strNgayNhapKho;
-	int iTinhTrang;
+	string _strMaSach;
+	string _strTenSach;
+	string _strTacGia;
+	string _strNhaXuatBan;
+	int _iGiaBan;
+	int _iNamPhatHanh;
+	int _iSoTrang;
+	string _strNgayNhapKho;
+	int _iTinhTrang;
 public:
 	// getters
 	string getMaSach();
@@ -40,4 +40,5 @@ public:
 	// Khoi tao Sach co tham so
 	Sach(string maSach, string tenSach, string tacGia, string nhaXuatBan
 		, int giaBan, int namPhatHanh, int soTrang, string ngayNhapKho, int tinhTrang);
+
 };
