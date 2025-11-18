@@ -3,104 +3,104 @@
 // getters
 string Sach::getMaSach()
 {
-	return strMaSach;
+	return _strMaSach;
 }
 string Sach::getTenSach()
 {
-	return strTenSach;
+	return _strTenSach;
 }
 string Sach::getTacGia()
 {
-	return strTacGia;
+	return _strTacGia;
 }
 string Sach::getNhaXuatBan()
 {
-	return strNhaXuatBan;
+	return _strNhaXuatBan;
 }
 int Sach::getGiaBan()
 {
-	return iGiaBan;
+	return _iGiaBan;
 }
 int Sach::getNamPhatHanh()
 {
-	return iNamPhatHanh;
+	return _iNamPhatHanh;
 }
 int Sach::getSoTrang()
 {
-	return iSoTrang;
+	return _iSoTrang;
 }
 string Sach::getNgayNhapKho()
 {
-	return strNgayNhapKho;
+	return _strNgayNhapKho;
 }
 int Sach::getTinhTrang()
 {
-	return iTinhTrang;
+	return _iTinhTrang;
 }
 
 // setters
 void Sach::setMaSach(string maSach)
 {
-	strMaSach = maSach;
+	_strMaSach = maSach;
 }
 void Sach::setTenSach(string tenSach)
 {
-	strTenSach = tenSach;
+	_strTenSach = tenSach;
 }
 void Sach::setTacGia(string tacGia)
 {
-	strTacGia = tacGia;
+	_strTacGia = tacGia;
 }
 void Sach::setNhaXuatBan(string nhaXuatBan)
 {
-	strNhaXuatBan = nhaXuatBan;
+	_strNhaXuatBan = nhaXuatBan;
 }
 void Sach::setGiaBan(int giaBan)
 {
-	iGiaBan = giaBan;
+	_iGiaBan = giaBan;
 }
 void Sach::setNamPhatHanh(int namPhatHanh)
 {
-	iNamPhatHanh = namPhatHanh;
+	_iNamPhatHanh = namPhatHanh;
 }
 void Sach::setSoTrang(int soTrang)
 {
-	iSoTrang = soTrang;
+	_iSoTrang = soTrang;
 }
 void Sach::setNgayNhapKho(string ngayNhapKho)
 {
-	strNgayNhapKho = ngayNhapKho;
+	_strNgayNhapKho = ngayNhapKho;
 }
 void Sach::setTinhTrang(int tinhTrang)
 {
-	iTinhTrang = tinhTrang;
+	_iTinhTrang = tinhTrang;
 }
 
 // Ham khoi tao Sach moi
 Sach::Sach()
 {
-	strMaSach = "";
-	strTenSach = "";
-	strTacGia = "";
-	strNhaXuatBan = "";
-	iGiaBan = 0;
-	iNamPhatHanh = 0;
-	iSoTrang = 0;
-	strNgayNhapKho = "";
-	iTinhTrang = 0;
+	_strMaSach = "";
+	_strTenSach = "";
+	_strTacGia = "";
+	_strNhaXuatBan = "";
+	_iGiaBan = 0;
+	_iNamPhatHanh = 0;
+	_iSoTrang = 0;
+	_strNgayNhapKho = "";
+	_iTinhTrang = 0;
 }
 
 // Ham khoi tao Sach co tham so
 Sach::Sach(string maSach, string tenSach, string tacGia, string nhaXuatBan, int giaBan, 
 			int namPhatHanh, int soTrang, string ngayNhapKho, int tinhTrang)
 {
-	strMaSach = maSach;
-	strTenSach = tenSach;
-	strTacGia = tacGia;
-	strNhaXuatBan = nhaXuatBan;
-	iGiaBan = giaBan;
-	iNamPhatHanh = namPhatHanh;
-	iSoTrang = soTrang;
-	strNgayNhapKho = ngayNhapKho;
-	iTinhTrang = tinhTrang;
+	_strMaSach = maSach;
+	_strTenSach = tenSach;
+	_strTacGia = tacGia;
+	_strNhaXuatBan = nhaXuatBan;
+	_iGiaBan = giaBan;
+	_iNamPhatHanh = namPhatHanh;
+	_iSoTrang = soTrang;
+	_strNgayNhapKho = ngayNhapKho;
+	_iTinhTrang = tinhTrang;
 }
