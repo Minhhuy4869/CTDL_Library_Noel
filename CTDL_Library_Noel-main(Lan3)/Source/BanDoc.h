@@ -4,9 +4,9 @@
 class BanDoc
 {
 private:
-	string strMaBanDoc;
-	string strHoTen;
-	string strNgayDangKy;
+	string _strMaBanDoc;
+	string _strHoTen;
+	string _strNgayDangKy;
 public:
 	// getters
 	string getMaBanDoc();
@@ -21,4 +21,5 @@ public:
 	BanDoc();
 	// Khoi tao BanDoc co tham so
 	BanDoc(string maBanDoc, string hoTen, string ngayDangKy);
+
 };
