@@ -3,41 +3,41 @@
 // getters
 string BanDoc::getMaBanDoc()
 {
-	return strMaBanDoc;
+	return _strMaBanDoc;
 }
 string BanDoc::getHoTen()
 {
-	return strHoTen;
+	return _strHoTen;
 }
 string BanDoc::getNgayDangKy()
 {
-	return strNgayDangKy;
+	return _strNgayDangKy;
 }
 //setters
 void BanDoc::setMaBanDoc(string maBanDoc)
 {
-	strMaBanDoc = maBanDoc;
+	_strMaBanDoc = maBanDoc;
 }
 void BanDoc::setHoTen(string hoTen)
 {
-	strHoTen = hoTen;
+	_strHoTen = hoTen;
 }
 void BanDoc::setNgayDangKy(string ngayDangKy)
 {
-	strNgayDangKy = ngayDangKy;
+	_strNgayDangKy = ngayDangKy;
 }
 // constructor
 // Khoi tao BanDoc mac dinh
 BanDoc::BanDoc()
 {
-	strMaBanDoc = "";
-	strHoTen = "";
-	strNgayDangKy = "";
+	_strMaBanDoc = "";
+	_strHoTen = "";
+	_strNgayDangKy = "";
 }
 // Khoi tao BanDoc co tham so
 BanDoc::BanDoc(string maBanDoc, string hoTen, string ngayDangKy)
 {
-	strMaBanDoc = maBanDoc;
-	strHoTen = hoTen;
-	strNgayDangKy = ngayDangKy;
+	_strMaBanDoc = maBanDoc;
+	_strHoTen = hoTen;
+	_strNgayDangKy = ngayDangKy;
 }
