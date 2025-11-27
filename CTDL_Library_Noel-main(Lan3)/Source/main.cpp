@@ -289,6 +289,19 @@ void menuQuanLyBanDoc(QuanLyDanhSach<BanDoc>& qlbd){
             case 1: qlbd.hienThi(); system("pause"); break;
             case 2: {
                 string ma, ten, ngay; cout << "Ma ban doc: "; getline(cin, ma);
+                bool exists = false;
+                for (auto &bd : qlbd.getDS()) {
+                    if (bd.getMaBanDoc() == ma) {
+                        exists = true;
+                        break;
+                    }
+            }
+
+            if (exists) {
+                cout << "Ma ban doc da ton tai!\n";
+                system("pause");
+                break;
+            }
                 cout << "Ho ten: "; getline(cin, ten); cout << "Ngay dang ky: "; getline(cin, ngay);
                 qlbd.them(BanDoc(ma,ten,ngay)); qlbd.ghiFile("BanDoc.txt"); cout << "Them ban doc thanh cong!\n"; system("pause"); break;
             }
