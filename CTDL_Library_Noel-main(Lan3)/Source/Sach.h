@@ -14,7 +14,6 @@ private:
 	string _strNgayNhapKho;
 	int _iTinhTrang;
 public:
-	// getters
 	string getMaSach();
 	string getTenSach();
 	string getTacGia();
@@ -24,7 +23,6 @@ public:
 	int getSoTrang();
 	string getNgayNhapKho();
 	int getTinhTrang();
-	// setters
 	void setMaSach(string maSach);
 	void setTenSach(string tenSach);
 	void setTacGia(string tacGia);
@@ -34,11 +32,7 @@ public:
 	void setSoTrang(int soTrang);
 	void setNgayNhapKho(string ngayNhapKho);
 	void setTinhTrang(int tinhTrang);
-	// constructor
-	// Khoi tao Sach mac dinh
 	Sach();
-	// Khoi tao Sach co tham so
 	Sach(string maSach, string tenSach, string tacGia, string nhaXuatBan
 		, int giaBan, int namPhatHanh, int soTrang, string ngayNhapKho, int tinhTrang);
-
 };
