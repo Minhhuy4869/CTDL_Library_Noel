@@ -11,21 +11,15 @@ private:
     string _strNgayMuon;
     string _strNgayTra;
     int _iTinhTrang; // 1: đang mượn, 0: đã trả
-
 public:
-    // Constructor
     PhieuMuon();
     PhieuMuon(string maPhieu, string maBanDoc, string maSach, string ngayMuon, string ngayTra, int tinhTrang);
-
-    // Getters
     string getMaPhieu();
     string getMaBanDoc();
     string getMaSach();
     string getNgayMuon();
     string getNgayTra();
     int getTinhTrang();
-
-    // Setters
     void setMaPhieu(string maPhieu);
     void setMaBanDoc(string maBanDoc);
     void setMaSach(string maSach);
